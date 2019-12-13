@@ -1,0 +1,26 @@
+.containerTwo img:hover{
+    box-shadow: 0px 10px 50px blueviolet;
+
+
+}
+.containerTwo {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+
+
+
+}
+
+.box{
+    width: 400px;
+    
+}
+
+
+
